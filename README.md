@@ -6,7 +6,7 @@ Optimization methods underlie in solution of many problems in computer science. 
 
 **Teaching assistant**: Maksim Nakhodnov
 
-**Timetable**: the classes are scheduled on Tuesdays 11:15 - 12:30 and on Wednesdays 15:45 - 17:00 in the classroom EH-4.
+**Timetable**: the classes are on Wednesdays 14:15 - 17:00 in the classroom EH-4.
 
 **Telegram chat for questions and discussion**: [link](https://t.me/+lg10Rx2criVjMzYy)
 
