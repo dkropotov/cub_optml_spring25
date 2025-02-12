@@ -28,7 +28,9 @@ The written exam is planned to be offline on campus. Test exam from the previous
 
 | Date | Number | Topic | Materials |
 | :---: | :---: | --- | --- |
-| 04.02.25 | 01 | Introduction to the course. Function classes for optimization. Finding Hessians using second differentials. Convergence speed of optimization algorithms. Non-exact one-dimensional optimization.	|  |
+| 04.02.25 | 01 | Introduction to the course. Function classes for optimization. Finding Hessians using second differentials. Convergence speed of optimization algorithms. Non-exact one-dimensional optimization.	| NW, sections 3.1, 3.5 |
+| 12.02.25 | 02 | Gradient Descent. Convergence speed for different function classes. Examples. Finite-difference methods.	| NW, sections 3.2, 3.3  |
+
 
 
 ## Literature
