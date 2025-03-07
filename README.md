@@ -32,7 +32,7 @@ The written exam is planned to be offline on campus. Test exam from the previous
 | 12.02.25 | 02 | Gradient Descent. Convergence speed for different function classes. Examples. Finite-difference methods.	| NW, sections 3.2, 3.3  |
 | 19.02.25 | 03 | Newton method. Invariance to linear scaling. Global and local convergence. Matrix decompositions for solving linear systems. Hessian correction schemes.	| NW, sections 3.3, 3.4  |
 | 26.02.25 | 04 | Conjugate Gradient method for solving linear systems, its convergence properties. Preconditioning. Non-linear CG.	| NW, sections 5.1, 5.2  |
-| 05.03.25 | 05 | Hessian-Free Newton (Newton-cg), its convergence speed. Convex sets. Introduction to Quasi-Newton methods.	| NW, section 7.1  |
+| 05.03.25 | 05 | Hessian-Free Newton (Newton-cg), its convergence speed. Convex sets. Introduction to Quasi-Newton methods.	| NW, section 7.1; BV, section 2  |
 
 
 
