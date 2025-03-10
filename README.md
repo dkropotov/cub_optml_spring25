@@ -22,7 +22,7 @@ Completion: To pass this module, the examination of each module component must b
 
 ## Exam
 
-The written exam is planned to be offline on campus. Test exam from the previous year: [formulation](Materials/test_exam.pdf), [reference solution](Materials/test_exam_reference.pdf)
+The written exam is scheduled on the 21st of May (Wednesday) at 12:30. Test exam from the previous year: [formulation](Materials/test_exam.pdf), [reference solution](Materials/test_exam_reference.pdf)
 
 ## Lectures
 
