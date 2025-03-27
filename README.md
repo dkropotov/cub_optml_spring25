@@ -35,6 +35,7 @@ The written exam is scheduled on the 21st of May (Wednesday) at 12:30. Test exam
 | 05.03.25 | 05 | Hessian-Free Newton (Newton-cg), its convergence speed. Convex sets. Introduction to Quasi-Newton methods.	| NW, section 7.1; BV, sections 2.1-2.3  |
 | 12.03.25 | 06 | Quasi-Newton methods SR1, BFGS and L-BFGS. Convex functions.	| NW, sections 6.1, 6.2, 7.2; BV, sections 3.1, 3.2  |
 | 19.03.25 | 07 | Constrained optimization problem, KKT theorem (first and second order necessary and sufficient conditions). Examples of analytical solving for constrained optimization, DeepFool adversarial attack.	| NW, chapter 12; [DeepFool](https://arxiv.org/abs/1511.04599)  |
+| 26.03.25 | 08 | Dual optimization problem, dual decomposition, duality for Wasserstein distance. Epigraph and reparameterization reformulations. Standard classes of convex constrained optimization problems.	| BV, chapter 5; [Kantorovich-Rubinstein duality](https://courses.cs.washington.edu/courses/cse599i/20au/resources/L12_duality.pdf)<br> [Wasserstein GAN](https://arxiv.org/abs/1701.07875)  |
 
 
 
