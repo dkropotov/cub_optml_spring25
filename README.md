@@ -38,6 +38,7 @@ The written exam is scheduled on the 21st of May (Wednesday) at 12:30. Test exam
 | 26.03.25 | 08 | Dual optimization problem, dual decomposition, duality for Wasserstein distance. Epigraph and reparameterization reformulations. Standard classes of convex constrained optimization problems.	| BV, chapter 5; [Kantorovich-Rubinstein duality](https://courses.cs.washington.edu/courses/cse599i/20au/resources/L12_duality.pdf)<br> [Wasserstein GAN](https://arxiv.org/abs/1701.07875)  |
 | 02.04.25 | 09 | Revised simplex method for Linear Programming. Log-Barrier method for constrained convex programming.	| NW, chapter 13; BV, sections 10.2, 11.1-11.4  |
 | 09.04.25 | 10 | Non-smooth convex optimization: examples, subgradient method. Subdifferential calculus. | [Presentation](https://web.stanford.edu/class/ee364b/lectures/subgrad_method_notes.pdf)
+| 30.04.25 | 11 | Proximal Gradient Method. Closed functions, Fenchel conjugate functions and conjugate (dual) norms | [Presentation](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/prox-grad.pdf)
 
 
 
