@@ -39,6 +39,9 @@ The written exam is scheduled on the 21st of May (Wednesday) at 12:30. Test exam
 | 02.04.25 | 09 | Revised simplex method for Linear Programming. Log-Barrier method for constrained convex programming.	| NW, chapter 13; BV, sections 10.2, 11.1-11.4  |
 | 09.04.25 | 10 | Non-smooth convex optimization: examples, subgradient method. Subdifferential calculus. | [Presentation](https://web.stanford.edu/class/ee364b/lectures/subgrad_method_notes.pdf)
 | 30.04.25 | 11 | Proximal Gradient Method. Closed functions, Fenchel conjugate functions and conjugate (dual) norms | [Presentation](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/prox-grad.pdf)
+| 07.05.25 | 12 | Projections and proximal operators. Differentiation through optimization methods. |  [paper 1](https://arxiv.org/abs/1703.00443), [paper 2](https://arxiv.org/pdf/1502.03492)
+| 14.05.25 | 13 | Stochastic optimization. |
+
 
 
 
