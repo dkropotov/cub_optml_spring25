@@ -40,7 +40,7 @@ The written exam is scheduled on the 21st of May (Wednesday) at 12:30. Test exam
 | 09.04.25 | 10 | Non-smooth convex optimization: examples, subgradient method. Subdifferential calculus. | [Presentation](https://web.stanford.edu/class/ee364b/lectures/subgrad_method_notes.pdf)
 | 30.04.25 | 11 | Proximal Gradient Method. Closed functions, Fenchel conjugate functions and conjugate (dual) norms | [Presentation](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/prox-grad.pdf)
 | 07.05.25 | 12 | Projections and proximal operators. Differentiation through optimization methods. |  [paper 1](https://arxiv.org/abs/1703.00443), [paper 2](https://arxiv.org/pdf/1502.03492)
-| 14.05.25 | 13 | Stochastic optimization. |
+| 14.05.25 | 13 | Stochastic optimization methods for convex finite-sums minimization. | [paper 1](https://arxiv.org/abs/1309.2388), [paper 2](https://proceedings.neurips.cc/paper/2013/file/ac1dd209cbcc5e5d1c6e28598e8cbbe8-Paper.pdf), [paper 3](https://arxiv.org/abs/1401.7020), [paper 4](https://proceedings.mlr.press/v48/rodomanov16.html)
 
 
 
